@@ -1,0 +1,4 @@
+baseURL = 'http://positivity-news.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'clean_white'
