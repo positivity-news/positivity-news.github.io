@@ -1,7 +1,11 @@
 ---
-title: Test
-Date: 1-5-2023
-Author:
+title: "Test"
+Date: "2023-1-5"
+authors:
+ - test
+slug : Test
+summary : "test"
+
 ---
 testing 
 testing
