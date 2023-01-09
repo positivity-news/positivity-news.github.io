@@ -1,4 +1,6 @@
 baseURL = 'https://positivity-news.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Positivity News'
 theme = 'clean_white'
+[params]
+      header_image = "img/Copy-of-pic.png"
