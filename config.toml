@@ -4,3 +4,7 @@ title = 'Positivity News'
 theme = 'clean_white'
 [params]
       header_image = "img/Copy-of-pic.png"
+[[params.addtional_menus]]
+  title =  "ARCHIVE"
+  href =  "/archive/"
+
